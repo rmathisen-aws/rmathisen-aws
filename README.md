@@ -3,7 +3,7 @@ Hello! My name is Robert Mathisen. \
 I'm aspiring to become a Cloud Engineer, and currently looking for entry level positions. <br/>
 \
 [VPC with Subnets Workflow](https://github.com/rmathisen-aws/Create_a_VPC_with_Public_and_Private_Subnets) \
-Create a VPC with a /16 CIDR block that doesn't overlap/interfere with other networks. Create /24 Public and Private Subnets. Associate Subnets to Route Tables. Allow the Public Subnet access to the Internet via the Internet Gateway.
+Details the process of creating a VPC with a /16 CIDR block, and creating /24 Public and Private Subnets. Then, associating Subnets to Route Tables, and allowing the Public Subnet access to the Internet via the Internet Gateway.
 
 [Aurora Workflow](https://github.com/rmathisen-aws/Create_an_Aurora_db_with_Replication_and_Multi-AZ_deployment) \
 Created an Aurora database with replication and Multi-AZ deployment. Forced a Failover on the Master instance, and confirmed the Read Replica is promoted to Master.
