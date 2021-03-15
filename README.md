@@ -3,6 +3,10 @@ Hello! My name is Robert Mathisen. \
 I'm aspiring to become a Cloud Engineer, and currently looking for entry level positions. <br/>
 \
 \
-Please take a look at my repositories. They contain the labs that I've documented. \
+**My Repositories:** contain the labs that I've documented. \
 \
-These reports include a Summary, the Reason why I've chosen to do this lab, my Reflections, and the Process.
+These reports include: \
+Summary \
+Reason(s) why I've chosen to do this lab \
+My Reflections \
+Process \
