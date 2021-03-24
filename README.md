@@ -8,6 +8,8 @@ I'm aspiring to become a Cloud Engineer, and currently looking for entry level p
 
 [Adding IAM Admin User](https://github.com/rmathisen-aws/Adding_IAM_Admin_User/blob/main/README.md)
 
+[Creating Access Keys and Configure CLI](https://github.com/rmathisen-aws/Creating_Access_Keys_and_Configure_CLI/blob/main/README.md)
+
 [VPC with Subnets Workflow](https://github.com/rmathisen-aws/Create_a_VPC_with_Public_and_Private_Subnets) \
 Details the process of creating a VPC with a /16 CIDR block, and creating /24 Public and Private Subnets. Then, associating Subnets to Route Tables, and allowing the Public Subnet access to the Internet via the Internet Gateway.
 
