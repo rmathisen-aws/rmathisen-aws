@@ -6,6 +6,8 @@ I'm aspiring to become a Cloud Engineer, and currently looking for entry level p
 
 [Billing Alerts using CloudWatch and SNS](https://github.com/rmathisen-aws/Billing_Alerts_using_CloudWatch_and_SNS/blob/main/README.md)
 
+[Adding_IAM_Admin_User](https://github.com/rmathisen-aws/Adding_IAM_Admin_User/blob/main/README.md)
+
 [VPC with Subnets Workflow](https://github.com/rmathisen-aws/Create_a_VPC_with_Public_and_Private_Subnets) \
 Details the process of creating a VPC with a /16 CIDR block, and creating /24 Public and Private Subnets. Then, associating Subnets to Route Tables, and allowing the Public Subnet access to the Internet via the Internet Gateway.
 
