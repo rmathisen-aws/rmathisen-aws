@@ -2,7 +2,7 @@ Hello! My name is Robert Mathisen. \
 \
 I'm aspiring to become a Cloud Engineer, and currently looking for entry level positions. <br/>
 \
-[Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor-Authentication)
+[Assign Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor-Authentication)
 
 [Billing Alerts using CloudWatch and SNS](https://github.com/rmathisen-aws/Billing_Alerts_using_CloudWatch_and_SNS/blob/main/README.md)
 
