@@ -15,7 +15,7 @@ Create and Configure a Billing Alert through CloudWatch, and be notified via an 
 [Create Default VPC](https://github.com/rmathisen-aws/Create_Default_VPC) \
 If VPC is deleted, or if any of the provided components are (SN, IGW, SG, NACL), and you want to Create Default VPC
 
-[Configure, Launch, and SSH into EC2 Instance](https://github.com/rmathisen-aws/Configure_Launch_and_SSH_into_EC2_Instance/blob/main/README.md)
+[Configure, Launch, and SSH/RDP into EC2 Instances](https://github.com/rmathisen-aws/Configure_Launch_and_SSH_into_EC2_Instance/blob/main/README.md)
 
 [VPC with Subnets Workflow](https://github.com/rmathisen-aws/Create_a_VPC_with_Public_and_Private_Subnets) \
 Details the process of creating a VPC with a /16 CIDR block, and creating /24 Public and Private Subnets. Then, associating Subnets to Route Tables, and allowing the Public Subnet access to the Internet via the Internet Gateway.
