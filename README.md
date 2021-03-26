@@ -19,6 +19,8 @@ If VPC is deleted, or if any of the provided components are (SN, IGW, SG, NACL),
 
 [S3 Bucket](https://github.com/rmathisen-aws/S3_Bucket)
 
+[Automation with CloudFormation](https://github.com/rmathisen-aws/Automation_with_CloudFormation/blob/main/README.md)
+
 [VPC with Subnets Workflow](https://github.com/rmathisen-aws/Create_a_VPC_with_Public_and_Private_Subnets) \
 Details the process of creating a VPC with a /16 CIDR block, and creating /24 Public and Private Subnets. Then, associating Subnets to Route Tables, and allowing the Public Subnet access to the Internet via the Internet Gateway.
 
