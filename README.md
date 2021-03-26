@@ -2,10 +2,10 @@ Hello! My name is Robert Mathisen. \
 \
 I'm aspiring to become a Cloud Engineer, and currently looking for entry level positions. <br/>
 
-\
 
 
-### AWS Fundamentals:
+
+## AWS Fundamentals:
 
 \
 [Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor-Authentication) \
