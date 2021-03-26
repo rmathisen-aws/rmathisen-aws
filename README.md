@@ -5,7 +5,7 @@ I'm aspiring to become a Cloud Engineer, and currently looking for entry level p
 \
 
 
-#AWS Fundamentals: <h1> tag
+### AWS Fundamentals:
 
 \
 [Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor-Authentication) \
