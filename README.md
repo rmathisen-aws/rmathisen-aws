@@ -6,7 +6,6 @@ I'm aspiring to become a Cloud Engineer, and currently looking for entry level p
 
 
 ## AWS Fundamentals:
-
 \
 [Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor-Authentication) \
 Assign and Test Multi-Factor Authentication to individual Identities for an additional layer of account security.
