@@ -35,6 +35,8 @@ If VPC is deleted, or if any of the provided components are (SN, IGW, SG, NACL),
 
 [Automation with CloudFormation](https://github.com/rmathisen-aws/Automation_with_CloudFormation/blob/main/README.md)
 
+[Monitoring with CloudWatch](https://github.com/rmathisen-aws/Monitoring_with_CloudWatch/blob/main/README.md)
+
 
 <br/><br/>
 
