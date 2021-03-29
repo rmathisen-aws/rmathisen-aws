@@ -39,6 +39,8 @@ If VPC is deleted, or if any of the provided components are (SN, IGW, SG, NACL),
 
 [Registering a Domain](https://github.com/rmathisen-aws/Registering_a_Domain/blob/main/README.md)
 
+[Assigning IAM Users Permissions](https://github.com/rmathisen-aws/Assigning_IAM_Users_Permissions/blob/main/README.md)
+
 
 <br/><br/>
 
