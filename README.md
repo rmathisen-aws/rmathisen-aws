@@ -37,6 +37,8 @@ If VPC is deleted, or if any of the provided components are (SN, IGW, SG, NACL),
 
 [Monitoring with CloudWatch](https://github.com/rmathisen-aws/Monitoring_with_CloudWatch/blob/main/README.md) (plus EC2 Instance CPU Utilization Stress Test!)
 
+[Registering a Domain](https://github.com/rmathisen-aws/Registering_a_Domain/blob/main/README.md)
+
 
 <br/><br/>
 
