@@ -23,6 +23,7 @@ Assign and Test Multi-Factor Authentication to individual Identities for an addi
 Create and Configure a Billing Alert through CloudWatch, and be notified via an SNS in the event that the Alarm State has been Triggered.
 
 [Adding IAM Admin User](https://github.com/rmathisen-aws/Adding_IAM_Admin_User/blob/main/README.md)
+Create a user with Administrator Access via an attached AWS Managed Policy.
 
 [Creating Access Keys and Configure CLI](https://github.com/rmathisen-aws/Creating_Access_Keys_and_Configure_CLI/blob/main/README.md)
 
