@@ -26,7 +26,7 @@ Create and Configure a Billing Alert through CloudWatch, and be notified via an 
 
 ## AWS Fundamentals (Tutorials without Screenshots):
 
-[Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor-Authentication) \
+[Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor_Authentication_-_without_Screenshots/blob/main/README.md) \
 Assign and Test Multi-Factor Authentication to individual Identities for an additional layer of account security.
 
 [Billing Alerts using CloudWatch and SNS](https://github.com/rmathisen-aws/Billing_Alerts_using_CloudWatch_and_SNS/blob/main/README.md) \
