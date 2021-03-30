@@ -16,7 +16,7 @@ Details the process of attaching a Security Group and Key Pair to a Launch Templ
 <br/>
 
 ## AWS Fundamentals (Tutorials with Screenshots):
-[Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor-Authentication) \
+[Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor_Authentication) \
 Assign and Test Multi-Factor Authentication to individual Identities for an additional layer of account security.
 
 [Billing Alerts using CloudWatch and SNS](https://github.com/rmathisen-aws/Billing_Alerts_using_CloudWatch_and_SNS/blob/main/README.md) \
