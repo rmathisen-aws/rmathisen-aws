@@ -29,7 +29,7 @@ Create and Configure a Billing Alert through CloudWatch, and be notified via an 
 [Multi-Factor Authentication](https://github.com/rmathisen-aws/Multi-Factor_Authentication_-_without_Screenshots/blob/main/README.md) \
 Assign and Test Multi-Factor Authentication to individual Identities for an additional layer of account security.
 
-[Billing Alerts using CloudWatch and SNS](https://github.com/rmathisen-aws/Billing_Alerts_using_CloudWatch_and_SNS/blob/main/README.md) \
+[Billing Alerts using CloudWatch and SNS](https://github.com/rmathisen-aws/Billing_Alerts_using_CloudWatch_and_SNS_-_without_Screenshots/blob/main/README.md) \
 Create and Configure a Billing Alert through CloudWatch, and be notified via an SNS in the event that the Alarm State has been Triggered.
 
 [Adding IAM Admin User](https://github.com/rmathisen-aws/Adding_IAM_Admin_User/blob/main/README.md) \
